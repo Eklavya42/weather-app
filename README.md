@@ -47,7 +47,7 @@ For ex – -a ‘Mayur Vihar phase-1 Delhi  110091 India’
 
 * [Node.JS](http://nodejs.org) - Platform
 * [Yargs](http://yargs.js.org/) - Parsing command line arguments 
-* [Axios](https:// github.com/axios/axios) – Promise based HTTP client for the browser and node.js
+* [Axios](https://github.com/axios/axios) – Promise based HTTP client for the browser and node.js
 
 ## Author
 
